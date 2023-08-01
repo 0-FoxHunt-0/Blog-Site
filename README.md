@@ -3,7 +3,7 @@ First committed Python app
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install all required packages or do it when making you virtual enviroment.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install all required packages or install all packages when making your virtual enviroment.
 
 ```bash
 pip install -r requirements.txt
