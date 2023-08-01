@@ -15,4 +15,4 @@ Simply install the project and packages and run it on your virutal enviroment
 
 ## Example Live Site
 
-You can visit the site live on: https://blog-post-fox-5601d0ab4104.herokuapp.com/
+You can visit the site live on: https://fox-blog-site.onrender.com
